@@ -1,26 +1,64 @@
-<h1 align="center">Hi 👋, I'm Kartik Patil</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+ <div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikp12&label=Profile%20views&color=0e75b6&style=flat" alt="kartikp12" /> </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=190&section=header&text=Kartik%20Patil&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Applied%20AI%20%7C%20Blockchain%20%7C%20Software%20Engineering&descAlignY=57&descSize=16" width="100%" alt="Kartik Patil header" />
 
-- 🔭 I’m currently working for **Untitled Labs pvt. Ltd**
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Building+AI-powered+applications;Exploring+LLMs%2C+tool+calling+and+RAG;Making+blockchain+data+easier+to+understand" alt="Animated introduction" />
 
-- 🌱 I’m currently learning **Blockchain / Smarts Contracts**
+</div>
 
-- 📫 How to reach me **kartikpatil1006@gmail.com**
+## Hi, I'm Kartik 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kartik patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartik patil" height="30" width="40" /></a>
-<a href="https://fb.com/kartik patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kartik patil" height="30" width="40" /></a>
-<a href="https://instagram.com/kartik_patil__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartik_patil__" height="30" width="40" /></a>
-</p>
+I'm a software engineer interested in **Applied AI and blockchain analytics**. I enjoy building practical applications that work with real data, from blockchain dashboards to AI-powered assistants.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+Right now, I'm focusing on LLM applications, local models, AI research workflows, and ways to make complex data easier to understand.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikp12&show_icons=true&locale=en&layout=compact" alt="kartikp12" /></p>
+- Exploring AI agents, tool calling, RAG, and source-grounded research
+- Building with JavaScript, Next.js, APIs, and blockchain data
+- Experimenting with Ollama and local LLMs
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikp12&show_icons=true&locale=en" alt="kartikp12" /></p>
+## Projects I've worked on
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikp12&" alt="kartikp12" /></p>
+### [AI Wallet Analyst](https://github.com/Kartikp12/ai-wallet-analyst)
+
+An AI-powered Ethereum wallet analysis project. It brings wallet balances, token holdings, and transaction activity into one interface, with a natural-language AI assistant.
+
+`Next.js` · `Alchemy API` · `Ollama` · `Qwen3`
+
+### [Smart Money Trades Analytics](https://github.com/Kartikp12/Smart-Money-Trades-Analytics)
+
+A dashboard for exploring Polymarket trading activity using Dune Analytics data and trade information.
+
+[Live demo](https://smart-money-trades-analytics.vercel.app/)
+
+`JavaScript` · `Next.js` · `Dune Analytics` · `SQL`
+
+### [Bubblemaps XDC](https://bubblemaps-xdc.vercel.app/)
+
+A blockchain analytics project focused on token holders, wallet relationships, and transaction connections on the XDC network.
+
+[Live demo](https://bubblemaps-xdc.vercel.app/)
+
+`JavaScript` · `Blockchain APIs` · `Cytoscape.js`
+
+### [MediGuide AI](https://github.com/Kartikp12/MediGuide-AI)
+
+A healthcare assistant prototype focused on helpful conversations and safety-aware handling of medical questions.
+
+`Next.js` · `JavaScript` · `AI safety`
+
+## Tools I use
+
+**Languages:** JavaScript, Python, SQL
+
+**Web development:** React, Next.js, Node.js, Tailwind CSS
+
+**AI:** Ollama, Qwen3, LLM application development
+
+**Blockchain & data:** Ethereum, XDC, Alchemy API, Etherscan API, Dune Analytics
+
+## Find me online
+
+- [LinkedIn](https://www.linkedin.com/in/kartik-patil-6808121b6/)
+- [Portfolio](https://kartikportfolio20.vercel.app/)
+- [Email](mailto:kartikpatil1006@gmail.com)
+
