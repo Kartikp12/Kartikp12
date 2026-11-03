@@ -12,8 +12,8 @@
 <a href="https://github.com/Kartikp12?tab=repositories">
 <img src="https://img.shields.io/badge/Explore-My%20Repositories-0F172A?style=for-the-badge&logo=github" />
 </a>
-<a href="https://kartikportfolio20.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://kartikpatil.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </div>
